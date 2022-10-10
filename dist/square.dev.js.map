@@ -1,0 +1,1 @@
+{"version":3,"sources":["square.js"],"names":["square","number"],"mappings":";;AAAA,SAASA,MAAT,CAAgBC,MAAhB,EAAwB;AACpB,SAAOA,MAAM,GAAGA,MAAhB;AACH","sourcesContent":["function square(number) {\r\n    return number * number;\r\n}"],"file":"square.dev.js"}
